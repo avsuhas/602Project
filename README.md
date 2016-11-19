@@ -40,6 +40,7 @@ In this Project, we are going to analyse the following parameters to justify for
 16. Urban population
 
 
-This Project gives insights to multiple parameter, reflects relationships of different related parameter to work on to develop further and grow more. Many interesting visualizations and interactions can be framed from the above list and can be taken in consideration to analyse. 
+This Project gives insights to multiple parameter, reflects relationships of different related parameter to work on to develop further and grow more. Many interesting visualizations and interactions can be framed from the above list and can be taken in consideration to analyse. Work on other parameters
+
 
 
